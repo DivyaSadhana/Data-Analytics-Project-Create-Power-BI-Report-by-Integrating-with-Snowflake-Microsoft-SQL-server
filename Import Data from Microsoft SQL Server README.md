@@ -1,6 +1,5 @@
 A. Requirements:
-1. Import Data from Microsoft SQL Server Studio.
-2. Patient Demographics Table must be imported.
+1. Import 'Patient Demographics Table' from Microsoft SQL Server.
 
 B. Implementation Tasks:
 1. Add the Server Name on Get Data --> SQL Server Database
