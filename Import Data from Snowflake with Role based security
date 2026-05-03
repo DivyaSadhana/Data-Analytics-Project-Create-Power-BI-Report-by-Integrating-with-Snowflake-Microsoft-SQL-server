@@ -7,3 +7,4 @@ Pre-Requisites:
 1. Download Snowflake ODBC server to estbalish connection between Snowflake account and Power BI Desktop.
 2. Add Snowflake User Account based URL without https://
 3. Add Database name from which data tables must be imported.
+
