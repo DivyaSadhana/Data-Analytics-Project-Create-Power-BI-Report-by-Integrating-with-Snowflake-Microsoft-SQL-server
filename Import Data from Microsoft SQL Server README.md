@@ -1,5 +1,5 @@
 A. Requirements:
-1. Import 'Patient Demographics Table' from Microsoft SQL Server.
+1. On Power BI, Import 'Patient Demographics Table' from Microsoft SQL Server.
 
 B. Implementation Tasks:
 1.  Get Data ---> Connect 'SQL Server Database'.
