@@ -1,7 +1,7 @@
-i.Requirements:
+A. Requirements:
 1. On Power BI, perform 'Direct Import' of Data from Snowflake Cloud with Role based security.
 
-ii. Pre-Requisites:
+B. Pre-Requisites:
 1. Download and install Snowflake ODBC server to estbalish connection between Snowflake account and Power BI Desktop. 
 <img width="597" height="422" alt="image" src="https://github.com/user-attachments/assets/fb56755e-3fe0-4ee5-856e-aab800077d34" />
 
@@ -9,7 +9,7 @@ ii. Pre-Requisites:
 <img width="593" height="416" alt="image" src="https://github.com/user-attachments/assets/4c22d7c5-e6e3-4234-89e4-9e02ba054559" />
 
 
-iii. Implementation Tasks:
+C. Implementation Tasks:
 1. Connect Snowflake on Get Data.
 <img width="1840" height="1054" alt="image" src="https://github.com/user-attachments/assets/f50ba155-4783-4d36-8df5-c1350fe81ac2" />
 
