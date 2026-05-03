@@ -13,6 +13,15 @@ C. Implementation Tasks:
 1. Connect Snowflake on Get Data.
 <img width="1840" height="1054" alt="image" src="https://github.com/user-attachments/assets/f50ba155-4783-4d36-8df5-c1350fe81ac2" />
 
+
 2. Add Server Name, Warehouse Name, Database Name.
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24d62127-97c8-4178-b493-408027cb3000" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/740cacf1-41e3-4ba5-857c-73525c8795b3" />
+
+
+3. Add User Name and Password. Business_Analyst_US is the user name.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/801635a4-6709-4bfb-ae90-c937668bcb62" />
+
+4. The user is able to view Hospital Dataset schema and Patient_Analytics_US schema only. Select required data table. 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acaf6091-62ff-4d56-b4b7-1acc270785c7" />
+
 
