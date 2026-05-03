@@ -1,5 +1,5 @@
 A. Requirements:
-1. On Power BI, perform 'Direct Import' of Data from Snowflake Cloud with Role based security.
+1. On Power BI, 'Import' Data from Snowflake Cloud with Role based security.
 
 B. Pre-Requisites:
 1. Download and install Snowflake ODBC server to estbalish connection between Snowflake account and Power BI Desktop. 
@@ -21,7 +21,15 @@ C. Implementation Tasks:
 3. Add User Name and Password. Business_Analyst_US is the user name.
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/801635a4-6709-4bfb-ae90-c937668bcb62" />
 
-4. The user is able to view Hospital Dataset schema and Patient_Analytics_US schema only. Select required data table. 
+4. The user is able to view Hospital Dataset schema and Patient_Analytics_US schema only. Select required data table and Load it. 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acaf6091-62ff-4d56-b4b7-1acc270785c7" />
+
+5. Select Import Data.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f79d244-5620-4a69-b18e-dddc16151007" />
+
+6. Verfy the loaded data on a table.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60022b9d-006c-4d7e-ab95-69bf1958ddd1" />
+
+
 
 
