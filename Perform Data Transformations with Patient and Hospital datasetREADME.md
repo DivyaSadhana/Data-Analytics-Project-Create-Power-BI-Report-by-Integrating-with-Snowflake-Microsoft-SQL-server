@@ -7,7 +7,7 @@
 3. Hospital Staff Table: Create new columns 'Age', 'Employment Duration' & 'Full Name' of the patients. Rename Gender values 'F' as Female & 'M' as Male. 
 <img width="1920" height="1167" alt="image" src="https://github.com/user-attachments/assets/f6690e36-e04b-4696-909f-4b2ee016c2c7" />
 
-4. Merge 3 Tables of Patients to create a single table 'Patients Dataset'.
+4. Through Power Query, merge 3 Tables of Patients to create a single table 'Patients Dataset'.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc69bdf8-1845-4cf1-bb78-6bc2b8c2315e" />
 
 
