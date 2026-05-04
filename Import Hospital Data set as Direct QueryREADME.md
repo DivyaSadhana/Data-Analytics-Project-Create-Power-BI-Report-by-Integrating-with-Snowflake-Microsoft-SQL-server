@@ -1,5 +1,5 @@
 Data Source Requirement:- Merge Hospital Department and Hospital Disease Treatment Tables 
-Advantage: Direct Query stores imported data load memory in the data source but not in Power BI. The data refresh will be faster.
+Advantage: Direct Query stores imported data load memory in the data source but not in Power BI. The data refresh will be faster compared with Import.
 
 
 1. Write SQL code to Join Hospital Department Table with Hospital Disease Treatment Table.
