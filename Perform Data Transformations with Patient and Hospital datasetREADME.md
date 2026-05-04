@@ -10,5 +10,7 @@
 4. Through Power Query, merge 3 Tables of Patients to create a single table 'Patients Dataset'.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc69bdf8-1845-4cf1-bb78-6bc2b8c2315e" />
 
+5. Rename the Columns for Data Visualization.
+6. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63ee1a9f-f746-407a-bdeb-6476bb622431" />
 
 
