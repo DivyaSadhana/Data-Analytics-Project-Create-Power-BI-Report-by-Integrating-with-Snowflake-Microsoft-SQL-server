@@ -7,4 +7,3 @@ Data Source Requirements:
 B. Perform Data Transformations.
 C. Create Visualizations.
 
-Constraints: Power BI report was not published on Power BI Service.
