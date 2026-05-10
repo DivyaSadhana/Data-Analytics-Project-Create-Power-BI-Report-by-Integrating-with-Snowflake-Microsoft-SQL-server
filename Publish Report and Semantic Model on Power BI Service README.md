@@ -1,4 +1,4 @@
-1. Before Publising report on Power BI Service, 2 new tables were created by importing data from Public Web API URLs. Depending on the settings assigned with the Public domain API, Establish connection as 'Anonymous' or 'Windows' or 'Basic' or 'Web API' or 'Organization Account'.
+1. Before Publising report on Power BI Service, 2 new tables were created by importing data from Public Web API URLs. Depending on the settings of the Public domain API, establish connection as 'Anonymous' or 'Windows' or 'Basic' or 'Web API' or 'Organization Account'.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29388713-b961-49ca-96a1-a858aca3f126" />
 2. Below is the COVID dataset imported on Power BI. It was obtained from Public Domain Web API URL.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b98d3268-6963-41d3-9b44-07b6f387a2da" />
