@@ -11,6 +11,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc69bdf8-1845-4cf1-bb78-6bc2b8c2315e" />
 
 5. Rename the Columns for Data Visualization.
-6. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63ee1a9f-f746-407a-bdeb-6476bb622431" />
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63ee1a9f-f746-407a-bdeb-6476bb622431" />
+6. Rename the Employment Type details of the Hospital Staff.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2292652a-e3f6-4a2d-b5ba-5f16dbcea0a1" />
+
 
 
